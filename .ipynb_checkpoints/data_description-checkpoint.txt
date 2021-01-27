@@ -499,8 +499,7 @@ MiscVal: $Value of miscellaneous feature
 MoSold: Month Sold (MM)
 
 YrSold: Year Sold (YYYY)
-
-SaleType: Type of sale
+Sale Type
 		
        WD 	Warranty Deed - Conventional
        CWD	Warranty Deed - Cash
